@@ -54,7 +54,7 @@ OpenAI Codex, basado en GPT-6. Esta sesión no expone una identificación más p
 - Corrección de esta iteración asistida por IA: se había incorporado el plano aportado como imagen pública; el usuario aclaró que no debía mostrarse. Se quitó el archivo y su referencia antes de publicar.
 - Corrección de esta iteración asistida por IA: inicialmente se mantuvo el largo como pendiente por la contradicción entre cotas del plano. Tras la confirmación del usuario, se registró 10 m y se descartaron las cotas parciales como datos utilizables. Es una corrección por aclaración del usuario, no una medición nueva.
 
-No se inventan dos errores de IA para completar la consigna: el equipo debe validar con el docente si estas correcciones documentadas cumplen el apartado, o agregar dos errores efectivamente observados durante su trabajo en Claude.
+Otra corrección de la IA en esta sesión: la captura llamada móvil se había tomado al terminar la prueba de 768 px. Se detectó al inspeccionarla y se volvió a generar a 390 px. Las correcciones son de Codex; si se exigen errores observados en Claude, deben documentarse durante ese trabajo.
 
 ## Verificación
 
