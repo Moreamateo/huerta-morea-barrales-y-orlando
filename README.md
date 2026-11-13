@@ -1,6 +1,12 @@
-# Huerta escolar — TP 3
+# Huerta Morea, Barrales y Orlando — TP 3
 
-Página para la muestra anual: https://moreamateo.github.io/huerta_moreaaa/
+## Integrantes
+
+- Mateo Morea
+- Nicolás Barrales
+- Santiago Orlando
+
+Página para la muestra anual: https://moreamateo.github.io/huerta-morea-barrales-y-orlando/
 
 ## Antes y después
 
@@ -16,7 +22,7 @@ Tres puntos flojos encontrados en la versión anterior (commit `77723ac`):
 
 ## Datos y procedencia
 
-`datos.json` contiene dimensiones aportadas por el usuario: **10 m de largo y 8 m de ancho**. El usuario confirmó expresamente el largo de 10 m. Responsable público: **equipo de medición**. Los nombres se mantienen fuera de la entrega por la regla de privacidad del TP. **Falta informar la fecha de medición**; no se reemplazó por la fecha de edición del sitio.
+`datos.json` contiene dimensiones aportadas por el usuario: **10 m de largo y 8 m de ancho**. El usuario confirmó expresamente el largo de 10 m. Responsable público: **equipo de medición**. Los nombres de los tres integrantes se incluyen en este README por pedido explícito del usuario. **Falta informar la fecha de medición**; no se reemplazó por la fecha de edición del sitio.
 
 El material visual aportado NO se incluye ni se publica, por pedido del usuario. No se incorporaron sus cotas parciales contradictorias. La ilustración del brote es decorativa, no una foto de la huerta. Las imágenes de los cultivos de la página anterior se conservan como referencias, con aviso de procedencia pendiente; no se presentan como fotos propias ni evidencia de crecimiento.
 
