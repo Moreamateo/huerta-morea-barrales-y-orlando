@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "dimensiones": {
+    "largo_m": 10,
+    "ancho_m": 8,
+    "fuente": "Medidas aportadas por el usuario; largo total confirmado en la conversación",
+    "equipo": "Equipo de medición",
+    "fecha_medicion": null,
+    "estado": "Medidas aportadas; fecha de medición pendiente"
+  },
+  "registros": []
+}
