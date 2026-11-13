@@ -18,7 +18,7 @@ Tres puntos flojos encontrados en la versión anterior (commit `77723ac`):
 
 `datos.json` contiene dimensiones aportadas por el usuario: **10 m de largo y 8 m de ancho**. El usuario confirmó expresamente el largo de 10 m. Responsable público: **equipo de medición**. Los nombres se mantienen fuera de la entrega por la regla de privacidad del TP. **Falta informar la fecha de medición**; no se reemplazó por la fecha de edición del sitio.
 
-El material visual aportado NO se incluye ni se publica, por pedido del usuario. No se incorporaron sus cotas parciales contradictorias. La ilustración del brote es decorativa, no una foto de la huerta. Las fotos heredadas no se muestran porque su procedencia no está acreditada.
+El material visual aportado NO se incluye ni se publica, por pedido del usuario. No se incorporaron sus cotas parciales contradictorias. La ilustración del brote es decorativa, no una foto de la huerta. Las imágenes de los cultivos de la página anterior se conservan como referencias, con aviso de procedencia pendiente; no se presentan como fotos propias ni evidencia de crecimiento.
 
 `registros` está vacío: no recibimos observaciones fechadas de siembra, crecimiento o cosecha. No se inventaron valores ni fechas. La línea de tiempo y el filtro por cultivo se completan automáticamente cuando el equipo agrega registros revisados.
 
@@ -64,7 +64,7 @@ Para ejecutar localmente: `python -m http.server 8765`, y abrir `http://localhos
 
 ## Publicación y pendientes para la muestra
 
-GitHub Pages debe servir `main` desde la raíz. El QR apunta a la URL pública indicada arriba. Los enlaces de las páginas antiguas llevan al nuevo inicio.
+GitHub Pages debe servir `main` desde la raíz. El QR apunta a la URL pública indicada arriba. El calendario original se conserva. La página alternativa antigua lleva al inicio actualizado.
 
 - [x] Capturas antes/después y QR.
 - [x] Diseño adaptable, dimensiones aportadas y bitácora filtrable.
@@ -77,3 +77,12 @@ GitHub Pages debe servir `main` desde la raíz. El QR apunta a la URL pública i
 ## Guion para ensayar
 
 “Mejoramos la página de la huerta para que cada observación tenga una fuente. El equipo informó un espacio de 10 metros de largo por 8 de ancho; todavía falta completar la fecha de esa medición. Sacamos la humedad simulada y los riegos que no venían de observaciones reales. Preparamos una bitácora que muestra los registros por fecha y permite filtrar por cultivo. La próxima tarea es cargar lo medido en la huerta y revisarlo con el profesor. El código QR permite consultar la página durante la muestra.”
+
+
+## Adaptación sobre la página original
+
+A pedido del usuario, se recuperaron el diseño y las secciones originales: Inicio, Objetivo, Funcionamiento, Cultivos, Cronograma y Calendario. Las fichas de zapallo, acelga y espinaca se muestran independientemente de que existan registros fechados. La bitácora real y el QR se integran como mejoras, sin reemplazar el proyecto anterior. Los parámetros técnicos originales se identifican como diseño del proyecto y no como mediciones en vivo. Se mantienen las dimensiones confirmadas y no se publica el plano aportado.
+
+Corrección adicional de la IA: el primer rediseño había reemplazado demasiado contenido y había dejado sin fichas de cultivos a la página. Se restauraron las secciones y se separó el catálogo de cultivos de los registros de campo.
+
+Verificación de esta adaptación: navegación por las seis secciones en 360, 390 y 768 px sin desbordes; tres fichas visibles en Cultivos; filtro con los tres cultivos; checklist operativo; calendario disponible y ningún error de JavaScript. Captura adicional: [Cultivos](despues-cultivos.png).
